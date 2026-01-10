@@ -14,7 +14,7 @@ AdminPit is a comprehensive web-based application designed to streamline company
 - **User-Friendly Interface**: Enjoy a seamless user experience with intuitive navigation and a visually appealing interface built using technologies like Tailwind CSS, Material UI, and Syncfusion.
 - **Built-in Features**: Take advantage of features like a kanban board, calendar, color picker, and text editor to efficiently manage tasks and collaborate with your team.
 - **Data Visualization**: Gain insights into key metrics with support for various graph types including line, bar, pie, financial, and plot graphs.
-- **Iterative Development**: Continuously improve the app based on user feedback and evolving requirements to meet the specific needs of administrators.
+- **Iterative Development**: Continuously improve the app based on user feedback and evolving requirements to meet the specific needs of administrators. 
 
 ## Installation
 
